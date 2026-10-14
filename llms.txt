@@ -1,0 +1,15 @@
+# rindo.pl
+
+> rindo.pl to serwis ze sprawdzonymi kodami rabatowymi. Każdy kod ma datę ostatniej weryfikacji.
+
+rindo.pl jest serwisem afiliacyjnym: linki do sklepów to linki afiliacyjne (reklama), a rindo.pl może dostać prowizję, gdy kupisz przez nie. Cena dla kupującego się nie zmienia.
+
+## Zasady
+
+- Kod trafia na stronę tylko z oficjalnego źródła marki lub sieci afiliacyjnej.
+- Każdy kod ma datę weryfikacji.
+- Kody wygasłe są oznaczane.
+
+## Strony
+
+Strony marek: wkrótce
